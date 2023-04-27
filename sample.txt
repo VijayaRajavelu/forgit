@@ -1,1 +1,5 @@
 Hi welcome
+i learned today:
+how to use git and git up.
+
+
