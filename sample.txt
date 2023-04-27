@@ -1,5 +1,7 @@
 Hi welcome
 i learned today:
-how to use git and git up.
+how to use git and githup.
+git is a tool for version control slstem.
+
 
 
