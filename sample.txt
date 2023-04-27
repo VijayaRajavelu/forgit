@@ -2,6 +2,6 @@ Hi welcome
 i learned today:
 how to use git and githup.
 git is a tool for version control slstem.
-
+it didn't through and error when adding same file already edit before.
 
 
