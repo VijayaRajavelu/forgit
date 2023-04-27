@@ -2,6 +2,9 @@ Hi welcome
 i learned today:
 how to use git and githup.
 git is a tool for version control slstem.
+Repository. A GitHub repository can be used to store a development project. ...
+Branch. A GitHub branch is used to work with different versions of a repository at the same time. ...
+Commits. At GitHub, changes are called commits. ...
 
 
 
